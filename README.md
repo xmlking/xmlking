@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-I'm Sumanth Chinthagunta. A Developer, Consultant, Author and and Open Source Enthusiast.
+I'm Sumanth Chinthagunta. A Developer, Consultant, Mentor and and Open Source Enthusiast.
   </samp>
 </p>
 
